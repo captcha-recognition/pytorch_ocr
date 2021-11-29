@@ -1,3 +1,2 @@
 # pytorch_ocr
-
-![](static/imgs/logo.png)
+<div style ='text-align:center'> <img src = 'static/imgs/logo.png'/> </div>
